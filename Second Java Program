@@ -1,0 +1,19 @@
+package com.google.hangouts.javalearning;
+
+/**
+ * Created by Kathir Kalyanaraman on 3/24/2020.
+ * Kathir Inc
+ * kathirrkalyan@gmail.com
+ */
+    public class Math
+{
+    public static void main(String args[])
+    {
+        char ch = 'a';
+        char ch2 = 'b';
+        int num1 = 100;
+        int num2 = 20;
+        System.out.println("a + b:" + (num1 + num2));
+
+    }
+}
