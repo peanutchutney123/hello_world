@@ -1,0 +1,11 @@
+package com.google.hangouts.javalearning;
+
+import android.support.v7.app.AppCompatActivity;
+
+public class FirstJavaProgram extends AppCompatActivity
+{
+    public static void main(String[] args){
+        System.out.println("Hello World");
+    }
+    
+}
