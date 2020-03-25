@@ -1,0 +1,9 @@
+public class MainActivity
+{
+    public static void main(String args[])
+    {
+        double xx = 1.4172d;
+        double yy = 14.172d;
+        System.out.println("xx * yy = " + (xx * yy));
+    }
+}
