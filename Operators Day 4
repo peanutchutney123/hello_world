@@ -1,0 +1,12 @@
+public class HelloWorld
+{
+    public static void main(String args[])
+    {
+      short num = 9;
+      short num2 = 5;
+      System.out.println("num + num2 = " + (num + num2));
+      System.out.println("num - num2 = " + (num - num2));
+      System.out.println("num * num2 = " + (num * num2));
+      System.out.println("num / num2 = " + (num / num2));
+    }
+}
