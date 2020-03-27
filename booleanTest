@@ -1,0 +1,12 @@
+public class booleanTest {
+  
+   public static void main(String args[]){
+     boolean color = false;
+      if( color == true ){
+	      System.out.println("green");
+      }
+     else {
+       System.out.println("red");
+     }
+   }
+}
