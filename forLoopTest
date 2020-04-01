@@ -1,0 +1,25 @@
+public class HelloWorld {
+  
+   public static void main(String args[]){
+    for(char Name=10; Name>0; Name--){
+          System.out.println("Kathir Kalyanaraman");
+  // This prints name 10 times
+    }
+  }
+}
+
+
+
+
+/* Output:
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+Kathir Kalyanaraman
+*/
