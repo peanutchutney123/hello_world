@@ -1,0 +1,16 @@
+public class HelloWorld {
+  
+   public static void main(String args[]){
+   String[] thisIsAStringArray = {"Kathir", "Surya", "Rahul","Sachin", "Sibi"};
+    for(int i=0; i<=4; i++){
+      System.out.println( thisIsAStringArray[i] );
+    }
+ /* 
+    System.out.println( thisIsAStringArray[0] );
+    System.out.println( thisIsAStringArray[1] );
+    System.out.println( thisIsAStringArray[2] );
+    System.out.println( thisIsAStringArray[3] );
+    System.out.println( thisIsAStringArray[4] );
+ */   
+  }
+}
