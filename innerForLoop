@@ -1,0 +1,13 @@
+public class HelloWorld {
+  
+   public static void main(String args[]){
+    
+//   Outer:
+        for(int i=0; i<=0; i++){
+//          Inner:
+                for(int D=1; D<11; D++){
+                  System.out.println(i+" is not "+D);
+                }
+    }  
+  }
+}
