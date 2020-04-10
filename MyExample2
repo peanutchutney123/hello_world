@@ -1,0 +1,6 @@
+public class MyExample2 {
+    public static void main(String[] args) {
+	      Colors obj = new Colors();
+	      System.out.println(obj.name);
+	   }
+}
