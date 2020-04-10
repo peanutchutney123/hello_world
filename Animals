@@ -1,0 +1,10 @@
+public class Animals {
+		String small;
+		String big;
+		
+		Animals()
+		{
+			this.big = "Dog";
+			this.small = "Cat";
+		}
+}
