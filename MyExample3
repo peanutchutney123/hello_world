@@ -1,0 +1,7 @@
+public class MyExample3 {
+    public static void main(String[] args) {
+	      Animals obj = new Animals();
+	      System.out.println(obj.big);
+	      System.out.println(obj.small);
+    }
+}
