@@ -1,0 +1,8 @@
+public class Colors {
+	String name;
+	   //Constructor
+	   Colors()
+	   {
+	      this.name = "Blue";
+	   }
+}
