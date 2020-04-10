@@ -1,0 +1,12 @@
+public class Calculator {
+	int num1;
+    int num2;
+  
+	Calculator(){
+	
+        this.num1 = 100;
+        this.num2 = 20;
+        
+	}
+        
+}
